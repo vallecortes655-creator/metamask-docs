@@ -41,3 +41,8 @@ These links contain LLM-readable files following the llmstxt.org standard, for e
 
 - [Tutorials documentation links](https://docs.metamask.io/llms-tutorials.txt): Documentation links for MetaMask tutorials.
 - [Tutorials full documentation](https://docs.metamask.io/llms-tutorials-full.txt): Complete documentation for MetaMask tutorials.
+
+## Agent Wallet
+
+- [Agent Wallet documentation links](https://docs.metamask.io/llms-agent-wallet.txt): Documentation links for MetaMask Agent Wallet — the mm CLI for programmatic wallet access with mandatory security.
+- [Agent Wallet full documentation](https://docs.metamask.io/llms-agent-wallet-full.txt): Complete documentation for MetaMask Agent Wallet.
